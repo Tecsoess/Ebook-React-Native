@@ -7,7 +7,7 @@ Las soluciones llave en mano se han apoderado del mercado de software en la actu
 ##  ¿Qué es un software de Marketplace de múltiples proveedores?
 El software de Marketplace de múltiples proveedores es cualquier solución lista para usar que se puede usar para crear un sitio web de Marketplace o una aplicación móvil, sin desarrollar las funcionalidades básicas desde cero. Por funcionalidades básicas, nos referimos a cada característica que hace que un sitio web de comercio electrónico sea fundamental con soporte para que múltiples proveedores vendan en él. Simplemente, son plataformas de comercio electrónico para el desarrollo de mercados de múltiples proveedores. 
 
-![](https://lh3.googleusercontent.com/t2hkI9xk1LZ4zbMps8jOoCjRqXj1pNUdeZyB5S-ivOI8fKuKYvCWhKp3_9IU4ABmps-AnwNhp97aBpNBfLJ_-_g)
+![](https://i.imgur.com/AGOdyzp.png)
 
 ##  ¿En qué se diferencian las soluciones de múltiples proveedores de las plataformas de comercio electrónico?
 
@@ -16,7 +16,7 @@ Una plataforma de comercio electrónico tradicional no es muy diferente de un so
 Entendamos esto con un ejemplo.
 Magento, PrestaShop, WooCommerce, OpenCart, BigCommerce, Shopify, etc. son plataformas de comercio electrónico, ya que admiten modelos de comercio electrónico basados ​​en inventario listos para usar. Puede usar cualquiera de estas soluciones para configurar un sitio web básico de comercio electrónico, cargar sus productos y venderlos a sus clientes. Por ejemplo, Nike.com. Venden su producto interno, por eso es un sitio web de comercio electrónico basado en inventario. Sin embargo, Amazon, BestBuy, eBay, Etsy, Alibaba, etc. también son sitios web de comercio electrónico, pero siguen un modelo de múltiples proveedores o un modelo más híbrido, ya que Amazon también vende sus propios productos en su sitio web. Sin embargo, también permiten que cualquier persona se registre y configure sus escaparates en su sitio web. Es por eso que son plataformas de comercio electrónico de mercado.
 
-![](https://lh5.googleusercontent.com/nFW1BMFghXBjSj1ux9lhPFf19V5eianIuZL22JQgeDU7TodzyL6xiayrtXoWeoaFARV-mcoUcJzudHgOSg8Avpo) 
+![](https://i.imgur.com/FHWaixO.png) 
 
 Por lo tanto, cuando está considerando crear un sitio web de mercado como Amazon, BestBuy, eBay, Etsy y Alibaba, etc., opta por soluciones de Marketplace, en lugar del software de comercio electrónico tradicional . Esto nos lleva a otro punto de discusión, las características de una solución de Marketplace. 
 
@@ -88,7 +88,7 @@ CS-Cart es un nombre popular en el mercado de soluciones de comercio electrónic
 
 › Estimación de costos: hay disponible una prueba gratuita de 15 días. Después de eso, puede seleccionar entre tres paquetes principales con beneficios cada vez mayores, como una aplicación de comercio móvil adicional, acceso al código fuente, personalizaciones, etc.
 
-![](https://lh6.googleusercontent.com/QMlIGEV6aQ1Wb0TRndf7FxfddRYqSS377p72r5pGabJNb9EPvTJEBiBxYy1gQllC2NPOn54Y17IlJm43E6H2HU8)
+![](https://i.imgur.com/vEMZdK9.png)
 
 ### 2. Solución de múltiples proveedores Yo!Kart
 
@@ -104,7 +104,7 @@ Modelo de entrega de software: autohospedado
 
 › Estimación de costos: una demostración en línea está disponible para hacer un recorrido por el software. Las opciones de demostración guiada también están disponibles. Además, puedes elegir entre tres paquetes premium con diferentes beneficios:
 
-![](https://lh5.googleusercontent.com/osQtS-rwNlXVRYWWMJ6ZZWzSZbdCFh67-sEC1CfJW9CcQhvR87VjN567Kzd3DowUqOxUPEowlNK6r50oboXpHy4)
+![](https://i.imgur.com/KDrYUgw.png)
 
 ### 3. Shopygen - Guión de Genstore
 
@@ -120,7 +120,7 @@ Shopygen's Genstore es un script de mercado de múltiples proveedores, único en
 
 › Estimación de costos: una demostración en línea está disponible para la solución. Sin embargo, para usar la solución, debe comprar su código fuente mediante un pago único. El sitio web muestra dos paquetes principales:
 
-![](https://lh6.googleusercontent.com/iEoy615NeD_BLNb-nfpUGmOb2zuZBsYOXNwtWpq0HV4AOMeSLybUt3WqzAuuHrhYRs2mSXGn5jFUATD2Mz6PBRc)
+![](https://i.imgur.com/xKhU6hg.png)
 
 ### 4. Multiproveedor de BigCommerce
 BigCommerce es un nombre popular en el mercado de soluciones de comercio electrónico, pero no ofrece soluciones de múltiples proveedores listas para usar. En cambio, permite a los desarrolladores de terceros crear y vender extensiones de múltiples proveedores para su plataforma. Desarrolladores populares como Webkul están vendiendo extensiones de múltiples proveedores, que puede usar para convertir su tienda BigCommerce en una plataforma de mercado.
@@ -150,7 +150,7 @@ Arcadier proporciona una gama de funciones de mercado, desde plantillas que perm
 
 › Estimación de costos: hay disponible una prueba gratuita de 30 días. Después de eso, puede seleccionar entre sus paquetes recurrentes con beneficios crecientes, como transacciones mensuales adicionales y acceso a su mercado de complementos, editores de código personalizados, API y SDK. Los paquetes comienzan en $79/mes.
 
-![](https://lh6.googleusercontent.com/-YFMjo2qiYVTz6Albt8DYdrnD9zBjPQk2alRrD0lnsq8y4zzvc5vJyCy9vCjYv5ICGXT0oMwmXYb_hGY2JezKGY)
+![](https://i.imgur.com/HDWA48w.png)
 
 ### 6. Extensión del mercado de Magento
 Al igual que BigCommerce, Magento no está equipado con funcionalidades de múltiples proveedores listas para usar. Sin embargo, una comunidad masiva de desarrolladores admite esta plataforma. Una gran cantidad de extensiones del mercado de Magento están disponibles en el mercado para su propósito. Puede usar cualquiera de estas extensiones para convertir un sitio web de comercio electrónico basado en Magento en un mercado de múltiples proveedores.
@@ -205,7 +205,7 @@ Magento 2 Multi-vendor Marketplace Solution de CedCommerce es una solución inte
 › Modelo de Software Delivery: Solución Open Source y Self-hosted.
 
 › Estimación de costos: Hay diferentes paquetes disponibles a partir de $299 - $1600. Hay muchos complementos listos para usar disponibles para diferentes funciones, incluidas varias integraciones de métodos de pago y envío.
-![](https://lh5.googleusercontent.com/03gQmuHcvJoICxTrwmwPGDlxbWYBfWGY-GOVf2JESY2i2UkiUrmN4IFP2a6qTm7v9P7QqssL3qAlRAxccyndNtI)
+![](https://i.imgur.com/psIpW1h.png)
 
 ### 10. Complemento Dokan de WordPress
 Debe haber oído hablar de WooCommerce, que es un complemento de carrito de compras para WordPress. Dokan es un complemento de WordPress similar, excepto que se especializa en convertir cualquier sitio de WordPress en un sitio web de mercado. Si tiene un sitio web de WordPress, puede instalar este complemento como cualquier otro complemento de WordPress en su sitio web.
@@ -220,7 +220,7 @@ Debe haber oído hablar de WooCommerce, que es un complemento de carrito de comp
 
 › Estimación de costos: una versión básica gratuita de Dokan está disponible con acceso de por vida. Sin embargo, las versiones premium, en diferentes estructuras de precios, están disponibles con muchas características útiles. Puede elegir entre licencias anuales y de por vida.
 
-![](https://lh3.googleusercontent.com/5bgRIqBOEeDzoqVAh1E9Gn74879oRr1xriReEjqU98_ZOQX2zMUHAFL8EicHZ5lrKiLXuJoW0YK8SU5di0Rd_Us)
+![](https://i.imgur.com/NUYt7va.png)
 
 
 ### 11. Complemento OpenCart de múltiples proveedores:
@@ -249,7 +249,7 @@ X-Cart es una solución de mercado dedicada con funciones listas para usar. Prop
 
 › Estimación de costos: aunque un plan alojado básico comienza en $29.95/mes , el precio real puede variar según sus necesidades. Debe ponerse en contacto con su equipo de ventas para obtener una cotización exacta.
 
-![](https://lh5.googleusercontent.com/H0X5uIN_aiLwopNvN8ixXw1qRZwS4Nqfrgv3Kay_-mpgXwlwaBhwoBCuVd9uPWW58C6Il_i0SQrZ7vH-FHMsCEA)
+![](https://i.imgur.com/jCw74r4.png)
 
 
 ### 13. Comercio juerga
